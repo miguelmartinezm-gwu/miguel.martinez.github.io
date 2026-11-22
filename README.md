@@ -1,7 +1,7 @@
 # miguel.martinez.github.io
 # S&P 500 Big-Move Detection
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miguelmartinezm-gwu/C6461-Component0-Assembler/blob/master/DataMiningFinalProject_Corrected_Improved_Rev_11_21_2026.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miguelmartinezm-gwu/miguel.martinez.github.io/blob/main/DataMiningFinalProject_Corrected_Improved_Rev_11_21_2026.ipynb)
 
 Random Forest classifier predicting whether the next trading day's SPY return
 will exceed ±1% ("Big Move"), using Yahoo Finance price data and FRED macro
